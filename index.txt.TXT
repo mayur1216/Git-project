@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is version 2 of my software
-=======
-This is version 1 of my software in git hub
->>>>>>> 35a4b9e453e77bbbf6d4ca4bd4e41fd95676034a
